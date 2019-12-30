@@ -6,4 +6,5 @@ My stupid boss still prefers SVN.
 my first establish between local repository and remote repository
 Creating a new branch is quick and simple.
 dev edit
-Git is a free software ...
+dev edit2
+
